@@ -1,12 +1,10 @@
 package com.messaging.service.service;
 
-import com.messaging.service.MainApplication;
 import com.messaging.service.model.Message;
 
 import org.junit.jupiter.api.Test;
 import org.mockito.InjectMocks;
 import org.springframework.boot.test.autoconfigure.web.servlet.WebMvcTest;
-import org.springframework.test.context.ContextConfiguration;
 
 import java.util.Arrays;
 import java.util.List;
